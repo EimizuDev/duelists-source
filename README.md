@@ -4,7 +4,7 @@
 
 **Maintenance:** I will not return to this project; no further changes will be made.
 
-**Stability:** Unpolished
+**Stability:** unpolished
 
 **Release:** https://eimizudev.itch.io/duelists
 
