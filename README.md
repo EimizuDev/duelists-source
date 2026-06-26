@@ -10,7 +10,7 @@
 
 ## Overview
 
-Duelists is a Unity player-versus-AI game I created in 2025. 
+Duelists is a Unity player-versus-bot game I created in 2025. 
 
 I developed this pretty quickly to publish a game idea on itch.io, so the code and the assets are not the greatest and I've abandonded it unpolished.
 
